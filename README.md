@@ -1,7 +1,7 @@
 # Welcome To My Profile! 👋
 
- - 🎒 - Currently Learning Java, Python, Javascript and Databases!
- - 🏫 - Currently A Student
+ - 🎒 - Currently workin in Python, C#!
+ - 🏫 - Software Development Graduate
  - 🚀 - Open For Collaboration
  - 📧 - Languages : Polish , English
 
