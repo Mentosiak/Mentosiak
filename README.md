@@ -1,6 +1,6 @@
 # Welcome To My Profile! 👋
 
- - 🎒 - Currently workin in Python, C#!
+ - 🎒 - Currently working in Python, C#!
  - 🏫 - Software Development Graduate
  - 🚀 - Open For Collaboration
  - 📧 - Languages : Polish , English
